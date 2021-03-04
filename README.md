@@ -1,4 +1,17 @@
 ### Hi there 👋
+My name is Anh Tran and I'm currently a postdoc at Northwestern University doing wetlab brain cancer research. I have three years of experience in R, with focus on bioinformatics, data visualization and package writing.
+
+- I'm the author of the Bioconductor [HPAanalyze package](https://github.com/trannhatanh89/HPAanalyze), and currently working on creating a R Shiny version.
+- I'm currently learning how to use Docker, advanced R Shiny, genomic data analysis and SQL.
+- I’m looking to collaborate on data visualization. I'm open to freelance data analysis and visualization jobs, and will consider working pro bono for certain non-profits.
+- How to reach me: trannhatanh89 (at) gmail (dot) com
+- Pronouns: he/him/his
+
+Some of my past projects:
+
+- Glioblastoma patients with extreme BMI changes and their hospital visit patterns: A visualization of i2b2 data from University of Alabama at Birmingham. Finalist in the 2018 i2b2 Abstract Contest.
+- [Meningiomics](http://meningiomics.northwestern.edu/): I conceptualized and did some ground work for this Shiny web app allowing analysis of publicly available data. [Kaitlyn O'Shea](https://github.com/kaitlu/MeningiOMICS) is the current developer of this project.
+
 
 <!--
 **trannhatanh89/trannhatanh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
