@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Anh Tran and I'm currently a postdoc at Northwestern University doing wetlab brain cancer research. I have three years of experience in R, with focus on bioinformatics, data visualization and package writing.
+My name is Anh Tran and I'm currently a postdoc at Northwestern University doing wet lab brain cancer research. I have been working with R since 2017, with focus on bioinformatics, data visualization and package writing.
 
 - I'm the author of the Bioconductor [HPAanalyze package](https://github.com/trannhatanh89/HPAanalyze), and currently working on creating a R Shiny version.
 - I'm currently learning how to use Docker, advanced R Shiny, genomic data analysis and SQL.
