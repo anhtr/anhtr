@@ -11,6 +11,7 @@ Some of my past projects:
 
 - Glioblastoma patients with extreme BMI changes and their hospital visit patterns: A visualization of i2b2 data from University of Alabama at Birmingham. Finalist in the 2018 i2b2 Abstract Contest.
 - [Meningiomics](http://meningiomics.northwestern.edu/): I conceptualized and did some ground work for this Shiny web app allowing analysis of publicly available data. [Kaitlyn O'Shea](https://github.com/kaitlu/MeningiOMICS) is the current developer of this project.
+- R package contribution: [workflowr](https://github.com/jdblischak/workflowr)
 
 
 <!--
