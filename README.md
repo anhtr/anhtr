@@ -3,7 +3,7 @@ My name is Anh Tran and I'm currently a data analyst at the American Academy of 
 
 - I'm the author of the Bioconductor [HPAanalyze package](https://github.com/trannhatanh89/HPAanalyze), and currently working on a [R Shiny version](https://github.com/anhtr/HPAanalyzeShiny).
 - I'm currently learning how to use Python, SQL, HTML/CSS/JS and advanced R Shiny.
-- I’m looking to collaborate on data visualization. I'm open to freelance data analysis and visualization jobs, and will consider working pro bono for certain non-profits.
+- I’m looking to collaborate on data visualization. I'm open to freelance data analysis and visualization jobs, and have worked pro bono for non-profits in the past.
 - How to reach me: trannhatanh89 (at) gmail (dot) com
 - Pronouns: he/him
 
