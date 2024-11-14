@@ -7,7 +7,7 @@ My name is Anh Tran and I'm a data analyst at the American Academy of Dermatolog
 - You can reach me at trannhatanh89 (at) gmail (dot) com
 - Pronouns: he/him
 
-Some of my notable projects include:
+Some of my other projects include:
 - A visualization of i2b2 data from University of Alabama at Birmingham on Glioblastoma patients with extreme BMI changes and their hospital visit patterns. This project was a finalist in the 2018 i2b2 Abstract Contest.
 - [Meningiomics](http://meningiomics.northwestern.edu/): I conceptualized and did the initial groundwork for this Shiny web app that allows for analysis of publicly available data. [Kaitlyn O'Shea](https://github.com/kaitlu/MeningiOMICS) is the current developer of this project.
 - Contributions to R packages such as [workflowr](https://github.com/jdblischak/workflowr) and [volcanoPlot](https://github.com/SafetyGraphics/volcanoPlot).
