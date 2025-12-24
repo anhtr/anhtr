@@ -1,5 +1,5 @@
 ### Greetings 👋
-My name is Anh Tran and I'm a data analyst at the American Academy of Dermatology. In addition to my full-time job, I am also a freelance data consultant and R developer. I have been working with R since 2017, with a focus on bioinformatics, clinical data, visualization and dashboard creation, and package development.
+My name is Anh Tran and I'm a manager of clinical data analytics at the American Academy of Dermatology. In addition to my full-time job, I am also a freelance data consultant and R developer. I have been working with R since 2017, with a focus on bioinformatics, clinical data, visualization and dashboard creation, and package development.
 
 - I'm the author of the Bioconductor [HPAanalyze package](https://github.com/trannhatanh89/HPAanalyze).
 - I also have experiences with SQL, Python, HTML/CSS/JS, and Spark.
